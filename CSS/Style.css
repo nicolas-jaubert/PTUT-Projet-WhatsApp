@@ -1,0 +1,47 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{  
+    top: 0; 
+    position: fixed;
+    background-color: rgb(15, 15, 15);
+    height: 8em;
+    width: 100%;
+}
+#Naviguation
+{
+    margin-top: 2em;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.button
+{
+    font-size: 300%;
+    text-decoration: none;
+    color:white;
+    background-color: inherit;
+    font-weight: bold;
+}
+#ChangeTheme
+{
+    border: none;
+    background-color: inherit;
+}
+#NightMod
+{
+    width: 12em;
+    height:4.5em;
+}
+section
+{
+    margin-top: 20em;
+}
+h1
+{
+    margin-left: 15%;
+    font-size: 300%;
+}
